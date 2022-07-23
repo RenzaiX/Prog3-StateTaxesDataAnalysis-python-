@@ -1,7 +1,3 @@
-# UIN: 656538534
-# repl.it URL: https://replit.com/@MykolaTurchak/Project-3#main.py
- 
-######################################################
 import csv
 import requests
 import json
